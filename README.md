@@ -1,4 +1,4 @@
-#Login Automation Project
+# **Login Automation Project
 
 This project automates the login functionality of a web application using Playwright. The tests are written in Python and utilize the pytest framework for easy execution and management.
 
