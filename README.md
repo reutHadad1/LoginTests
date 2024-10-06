@@ -1,13 +1,13 @@
-Login Automation Project
+#Login Automation Project
 This project automates the login functionality of a web application using Playwright. The tests are written in Python and utilize the pytest framework for easy execution and management.
 
-Features
+#Features
 Browser Compatibility: Supports multiple browsers (Chromium, Firefox, WebKit).
 Login Functionality Testing: Automates the login process and validates whether the login was successful.
 Error Handling: Captures and logs errors for better debugging.
 Command-Line Options: Allows users to specify which browser to use when running tests.
 
-Prerequisites
+#Prerequisites
 Before running the tests, ensure you have the following installed:
 
 Python 3.x
