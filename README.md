@@ -5,8 +5,11 @@ This project automates the login functionality of a web application using Playwr
 # Features
 
 Browser Compatibility: Supports multiple browsers (Chromium, Firefox, WebKit).
+
 Login Functionality Testing: Automates the login process and validates whether the login was successful.
+
 Error Handling: Captures and logs errors for better debugging.
+
 Command-Line Options: Allows users to specify which browser to use when running tests.
 
 # Prerequisites
