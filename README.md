@@ -14,12 +14,14 @@ Command-Line Options: Allows users to specify which browser to use when running 
 Before running the tests, ensure you have the following installed:
 
 Python 3.x
+
 pip (Python package manager)
 
 # Installation
 
 Clone the repository:
 git clone https://github.com/reutHadad1/LoginTests.git
+
 cd LoginTests
 
 playwright install
